@@ -1,0 +1,1 @@
+SELECT * FROM sakila.v_rental_details;
